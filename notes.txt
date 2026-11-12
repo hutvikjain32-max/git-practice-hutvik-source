@@ -1,3 +1,4 @@
 I am learning Git and GitHub.
 Git tracks changes in my files.
 Each commit saves a checkpoint. Then stage and commit again.
+This line was added on a feature branch. to notes.txt.
